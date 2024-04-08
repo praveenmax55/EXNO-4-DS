@@ -24,6 +24,26 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+```
+Name : Praveen D
+Reg no : 212222240076
+```
+![ds 1](https://github.com/praveenmax55/EXNO-4-DS/assets/113497509/4e5847de-4f9f-4240-9f0c-abe4b4ead845)
+![ds 2](https://github.com/praveenmax55/EXNO-4-DS/assets/113497509/e5017f21-31bf-4087-9ec5-577952996e05)
+![ds 3](https://github.com/praveenmax55/EXNO-4-DS/assets/113497509/dd170a41-eeca-4325-9826-b0f1863f4159)
+![ds 4](https://github.com/praveenmax55/EXNO-4-DS/assets/113497509/5025331e-3f7a-49ee-ab93-ec18437cab8f)
+![ds 5](https://github.com/praveenmax55/EXNO-4-DS/assets/113497509/a3b184ad-2892-44a3-85b6-78c30eff557d)
+![ds 6](https://github.com/praveenmax55/EXNO-4-DS/assets/113497509/388d2db1-2d08-4180-8802-19a301b92263)
+![ds 7](https://github.com/praveenmax55/EXNO-4-DS/assets/113497509/6f1e83f6-eb59-45f6-9048-f294e99afee0)
+![ds8](https://github.com/praveenmax55/EXNO-4-DS/assets/113497509/d1ab8320-0496-4a5f-89d8-79b3a2a94df9)
+![ds 9](https://github.com/praveenmax55/EXNO-4-DS/assets/113497509/0d4d4a42-2961-48b3-8da0-5e43317f3f66)
+![ds 10](https://github.com/praveenmax55/EXNO-4-DS/assets/113497509/748c3338-3bdd-4599-959c-2d732bf922fc)
+![ds 11](https://github.com/praveenmax55/EXNO-4-DS/assets/113497509/d45a9717-33a9-49e2-a1ea-23bcaa48fc7c)
+![ds 12](https://github.com/praveenmax55/EXNO-4-DS/assets/113497509/314d16b8-c7c4-422a-87d9-232d773220a7)
+![ds 13](https://github.com/praveenmax55/EXNO-4-DS/assets/113497509/5fd2c1c4-117d-40f3-b589-562d81bdf7ad)
+![ds 14](https://github.com/praveenmax55/EXNO-4-DS/assets/113497509/9f870360-6f9b-4d2f-b67f-0c403e5bd2c4)
+
+
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
