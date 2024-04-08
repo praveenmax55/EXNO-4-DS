@@ -46,4 +46,4 @@ Reg no : 212222240076
 
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       #   Thus,given data and perform Feature Scaling and Feature Selection process and save the data to a file is performed successfully.
